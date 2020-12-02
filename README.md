@@ -1,5 +1,5 @@
 # Maboule-DU-ore-monitoring
-Lua script for easy ore monitoring
+Lua script for easy ore monitoring in Dual Universe
 -----------------------
 <br>
 only T1/T2 available yet, other tier coming really soon

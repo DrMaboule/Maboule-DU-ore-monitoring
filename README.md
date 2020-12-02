@@ -5,8 +5,10 @@ Lua script for easy ore monitoring
 only T1 available yet, other tier coming really soon
 
 <br><br>
+![Image of example](https://i.ibb.co/D5SVdhB/Capture-d-cran-2020-12-01-215835.png) <br>
+![Image of example](https://i.ibb.co/gV24bpz/example-configuration.jpg)
 
-## <u>Items needed for ore tier :</u>
+## <u>Items needed by ore tier :</u>
 - 1 programing board
 
 - 4 screens
@@ -25,8 +27,8 @@ only T1 available yet, other tier coming really soon
 - Then go ingame, and click right on your programming board. Then go to  "advanced" --> "paste lua configuration from clipboard". 
 
 - Point the programming board and open edition window using "CTRL + L". 
-On the left, the slot list shows you which item the programming board is waiting for. 
-Just link in the order of the list from top to bottom. Always plug next the highest unplugged item in the list. 
+
+On the left, the slot list shows you which item the programming board is waiting for, and in the order you have to link from top to bottom.
 
 <br>
 Or just link in that order step by step :
@@ -69,6 +71,7 @@ In the field "coal_container_type"  enter "L".<br>
 In the field "coal_container_number" enter 4.<br>
 <i>(see available parameters bellow for more informations)</i>
 <br><br>
+
 ---------------------------
 
 

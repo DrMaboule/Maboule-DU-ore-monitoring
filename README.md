@@ -2,7 +2,7 @@
 Lua script for easy ore monitoring
 -----------------------
 <br>
-only T1 available yet, other tier coming really soon
+only T1/T2 available yet, other tier coming really soon
 
 <br><br>
 ![Image of example](https://i.ibb.co/D5SVdhB/Capture-d-cran-2020-12-01-215835.png) <br>
@@ -34,17 +34,30 @@ On the left, the slot list shows you which item the programming board is waiting
 Or just link in that order step by step :
 <br>
 <br>
+For T1 <br>
 1-the screen for Coal monitoring <br>
 2-the hub or the single container dedicated to Coal<br>
-3-the screen for Bauxite monitoring <br>
-4-the hub or the single container dedicated to Bauxite<br>
-5-the screen for Hematite monitoring <br>
-6-the hub or the single container dedicated to Hematite<br>
-7-the screen for Quartz monitoring <br>
-8-the hub or the single container dedicated to Quartz
-
-Point board and activate it. If all screens are turned ON, you should see your monitoring.
-<br><br>
+3-screen Bauxite <br>
+4- hub Bauxite<br>
+5-screen Hematite<br>
+6-hub Hematite<br>
+7-screen Quartz <br>
+8-hub Quartz
+<br>
+<br>
+For T2 <br>
+1-screen Limestone <br>
+2-hub Limestone<br>
+3-screen Malachite <br>
+4-hub Malachite<br>
+5-screen Chromite<br>
+6-hub Chromite<br>
+7-screen Natron <br>
+8-hub Natron<br>
+<br>
+Point your board and activate it. If all screens are turned ON, you should see your monitoring.
+<br>
+<br>
 
 ---------------------------
 
